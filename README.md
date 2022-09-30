@@ -16,3 +16,8 @@ The first thing you need are the flex sensors. I chose to create my own flex sen
 
 #### Creating the flex sensors
 1. Cut out two 2 cm x 10 cm pieces of the transparent sheet
+2. Darkly shade a piece of paper large relative to the transparent sheet with a pencil.
+3. Cut out a 2cm x 10cm piece of this shaded paper and ensure there are no gaps in the shading.
+4. Strip two multicore wires such that the stripped part of each wire is around 1.5 times the length of the transparent sheet.
+5. Twist the cores together.
+6. Make three small (~1 cm) slits 
