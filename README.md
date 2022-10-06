@@ -19,6 +19,24 @@ I don't think I'll be able explain how to make these better than this [video](ht
 Create 5 such flex sensors. After making each flex sensor make sure to test it using the Flex_Sensor_Tester file. All you need to check is if the number is changing when the flex sensor is bending.
 
 Attach each flex sensor to a finger on the glove. Make sure you use a glove that has a bit of structure. It's easier to attach the flex sensors to these kind of gloves and it is less likely for flex sensors to fall out while putting on and taking of the glove.
+
 ![image](https://user-images.githubusercontent.com/102592750/194369497-d663d30d-a414-4fc3-b53f-deb7d9cb19a5.png)
+
+
 Follow this Circuit diagram for the wiring of the glove. Now, to determine the bend limit of each finger run the Bend_Limit_Tester file. Note a suitable number for each of the fingers past which the finger is surely bent.
-Now, run the Glove_test file and enter your determined limits. Make sure all of this is working fine before moving on to the further steps.
+Now, run the Glove_test file and enter your determined limits. Make sure all of this is working fine and your done with the glove!
+
+## Building The Robotic Hand
+This was definitely the hardestand part of the whole project. I had to restart this step so many times and wasted so many resources here. Most of these could've been prevented if I knew what I now know.
+
+### What You Need:
+1) 5 - 10 Springs a bit longer than a finger (before you start looking for these read the section on springs)
+2) Foam boards (before you start looking for these read the section on foam)
+3) 5 Servos
+4) String 
+5) Masking or electrical tape
+
+#### Springs:
+Finding springs the length of a finger is not easy as these are not a standard size. Unless you know a somewhere where you can get a large variety of springs I don't think you will be able to find these. One option is soldering. But, if you're like me and aren't really good at soldering I wouldn't recommend this method. The springs od break at the solder joints and the final spring was usually bent. In the end what ended up working better for me was to use compressed springs around 3cm long and stretch them out.
+#### Foam
+Make sure to use foam that is rigid. Do not use the soft foam as these end up tearing very easily. Make sure the foam board is around the length of your forearm. 
