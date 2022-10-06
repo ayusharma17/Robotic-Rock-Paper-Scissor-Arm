@@ -37,6 +37,18 @@ This was definitely the hardestand part of the whole project. I had to restart t
 5) Masking or electrical tape
 
 #### Springs:
-Finding springs the length of a finger is not easy as these are not a standard size. Unless you know a somewhere where you can get a large variety of springs I don't think you will be able to find these. One option is soldering. But, if you're like me and aren't really good at soldering I wouldn't recommend this method. The springs od break at the solder joints and the final spring was usually bent. In the end what ended up working better for me was to use compressed springs around 3cm long and stretch them out.
+Finding springs the length of a finger is not easy as these are not a standard size. Unless you know a somewhere where you can get a large variety of springs I don't think you will be able to find these. One option is soldering. But, if you're like me and aren't really good at soldering I wouldn't recommend this method. The springs would break at the solder joints and the final spring was usually bent. In the end what ended up working better for me was to use compressed springs around 3cm long and stretch them out.
+
+Compressed Springs:
+
+![image](https://user-images.githubusercontent.com/102592750/194379401-0a96723d-cd1d-4098-b29c-3d336b13b356.png)
+
+
 #### Foam
 Make sure to use foam that is rigid. Do not use the soft foam as these end up tearing very easily. Make sure the foam board is around the length of your forearm. 
+
+I feel this [video](https://www.youtube.com/watch?v=5z5evInThP4) shows how to build the glove really well.
+
+##Final Step
+Now that you're done with the construction of all the parts, you're ready to run the code. Upload the Main file to your arduino and open the serial monitor. Try not to move your hand to much while playing as this can cause errors.
+Here's a demo [video](https://drive.google.com/drive/folders/1i5csbJOLz0hWHOnOAE1PBXH_o1pGJKed) of me playing rock paper scissor with the had I built. 
