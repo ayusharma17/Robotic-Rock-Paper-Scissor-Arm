@@ -16,6 +16,9 @@ The first thing you need are the flex sensors. I chose to create my own flex sen
 
 I don't think I'll be able explain how to make these better than this [video](https://www.youtube.com/watch?v=SJNYbSpvlP8).
 
+Create 5 such flex sensors. After making each flex sensor make sure to test it using the Flex_Sensor_Tester file. All you need to check is if the number is changing when the flex sensor is bending.
 
-Create 5 such flex sensors
-
+Attach each flex sensor to a finger on the glove. Make sure you use a glove that has a bit of structure. It's easier to attach the flex sensors to these kind of gloves and it is less likely for flex sensors to fall out while putting on and taking of the glove.
+![image](https://user-images.githubusercontent.com/102592750/194369497-d663d30d-a414-4fc3-b53f-deb7d9cb19a5.png)
+Follow this Circuit diagram for the wiring of the glove. Now, to determine the bend limit of each finger run the Bend_Limit_Tester file. Note a suitable number for each of the fingers past which the finger is surely bent.
+Now, run the Glove_test file and enter your determined limits. Make sure all of this is working fine before moving on to the further steps.
