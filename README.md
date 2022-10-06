@@ -51,4 +51,4 @@ I feel this [video](https://www.youtube.com/watch?v=5z5evInThP4) shows how to bu
 
 ##Final Step
 Now that you're done with the construction of all the parts, you're ready to run the code. Upload the Main file to your arduino and open the serial monitor. Try not to move your hand to much while playing as this can cause errors.
-Here's a demo [video](https://drive.google.com/drive/folders/1i5csbJOLz0hWHOnOAE1PBXH_o1pGJKed) of me playing rock paper scissor with the had I built. 
+Here's a demo [video](https://drive.google.com/file/d/1INIYR1poMmxU8Cfm3Kpnmw56CfaCY3tk/view?usp=sharing) of me playing rock paper scissor with the had I built. 
