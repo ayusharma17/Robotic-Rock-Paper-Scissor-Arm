@@ -49,6 +49,6 @@ Make sure to use foam that is rigid. Do not use the soft foam as these end up te
 
 I feel this [video](https://www.youtube.com/watch?v=5z5evInThP4) shows how to build the glove really well.
 
-##Final Step
+## Final Step
 Now that you're done with the construction of all the parts, you're ready to run the code. Upload the Main file to your arduino and open the serial monitor. Try not to move your hand to much while playing as this can cause errors.
 Here's a demo [video](https://drive.google.com/file/d/1INIYR1poMmxU8Cfm3Kpnmw56CfaCY3tk/view?usp=sharing) of me playing rock paper scissor with the had I built. 
